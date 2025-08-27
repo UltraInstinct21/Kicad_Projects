@@ -1,2 +1,2 @@
 # Kicad_Projects
-Beginner projects
+Kicad projects
